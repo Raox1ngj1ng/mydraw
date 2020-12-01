@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T09:45:57.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="13.10.4" etag="ldnx5cISovlEqvri2FPx" type="github"><diagram id="pBQLJb7QvXqfPdqB5syu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-01T09:49:18.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="0FTP_cq94OV1r_vvUmPd" version="13.10.4" type="github">
+  <diagram id="pBQLJb7QvXqfPdqB5syu" name="Page-1">
+    <mxGraphModel dx="1287" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rL1I20Ucbn27-vP4bla1-1" value="controller基类" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rL1I20Ucbn27-vP4bla1-2" value="service基类" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rL1I20Ucbn27-vP4bla1-3" value="model基类" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rL1I20Ucbn27-vP4bla1-4" value="等等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffffff;strokeWidth=7;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="845" y="75" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
