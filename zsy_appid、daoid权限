@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T09:32:03.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="iAatPqqbwb-1nCd8cXYA" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-01T09:41:55.289Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="s5Kw6f8o-uINUICZofph" version="13.10.4" type="github">
   <diagram id="Glc0Irnswc-S-19yNd2I" name="Page-1">
     <mxGraphModel dx="1073" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,6 +98,87 @@
         </mxCell>
         <mxCell id="UOxVse1A7GPgqJ53j7Fh-27" value="&lt;h1 style=&quot;text-align: left ; font-size: 4px&quot;&gt;a.id = aa.appId&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="150" y="244" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-2" value="personal根据dao过去菜单" style="whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="20" y="650" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_Ulxhs72BKAG6LtGEGzr-5">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-4" value="perDept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="_Ulxhs72BKAG6LtGEGzr-5">
+          <mxGeometry x="30" y="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_Ulxhs72BKAG6LtGEGzr-6">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-8" value="role_auth" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="_Ulxhs72BKAG6LtGEGzr-6">
+          <mxGeometry x="25" y="20" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="340" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_Ulxhs72BKAG6LtGEGzr-9">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-11" value="role_menu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="_Ulxhs72BKAG6LtGEGzr-9">
+          <mxGeometry x="25" y="20" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="480" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_Ulxhs72BKAG6LtGEGzr-12">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-14" value="menu_auth" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="_Ulxhs72BKAG6LtGEGzr-12">
+          <mxGeometry x="20" y="20" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="620" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_Ulxhs72BKAG6LtGEGzr-15">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-17" value="menu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="_Ulxhs72BKAG6LtGEGzr-15">
+          <mxGeometry x="35" y="20" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-18" value="statecode=1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="820" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-19" value="statecode=1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="820" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-20" value="statecode=1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="820" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-22" value="statecode=1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="820" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-24" value="perId" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="890" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-25" value="appid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="910" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-26" value="daoid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="930" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-27" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="920" as="sourcePoint" />
+            <mxPoint x="730" y="921.6666666666666" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-28" value="&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;SELECT DISTINCT m.*&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; FROM menu AS m&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; JOIN menu_auth AS ma ON ma.menuId = m.id&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; JOIN role_menu AS rm ON rm.menuId = ma.menuId&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; JOIN role_auth AS ra ON ra.roleId = rm.roleId&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; JOIN per_dept AS pd ON pd.deptId = ra.deptId&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; WHERE pd.perId = &#39;${perId}&#39;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; AND pd.daoId = &#39;${this.ctx.tokenClaims.daoid}&#39;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; AND ma.appId = &#39;${this.ctx.tokenClaims.appid}&#39;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; AND ma.daoId = &#39;${this.ctx.tokenClaims.daoid}&#39;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; AND m.app_id = &#39;${this.ctx.tokenClaims.appid}&#39;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; -- AND m.app_id = 1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; -- GROUP BY m.id&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; -- ORDER BY m.parent_id asc,m.id asc&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="940" width="310" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ulxhs72BKAG6LtGEGzr-29" value="pd.statecode=1&lt;br&gt;ra.statecode=1&lt;br&gt;rm.statecode=1&lt;br&gt;ma.statecode=1&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1010" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
