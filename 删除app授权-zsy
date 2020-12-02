@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T04:29:59.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="IwRni4aLaVZNzJhxrD-g" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T05:57:19.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="m7hQ2ST-ih3eddEL7CoB" version="13.10.4" type="github">
   <diagram id="Rn91mVoiUm05RoLfLFsh" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,19 +73,19 @@
         <mxCell id="LZOWXnSoQ6ckZKk8h5wf-29" value="先删除除授权出去菜单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="438" y="220" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LZOWXnSoQ6ckZKk8h5wf-33" value="传参:menuId，perId" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="LZOWXnSoQ6ckZKk8h5wf-33" value="传参:appId" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="584" y="500" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LZOWXnSoQ6ckZKk8h5wf-35" value="传参:menuId，daoId" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="LZOWXnSoQ6ckZKk8h5wf-35" value="传参:appId" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="584" y="90" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LZOWXnSoQ6ckZKk8h5wf-37" value="传参:appId，daoId" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="LZOWXnSoQ6ckZKk8h5wf-37" value="传参:appId" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="304" y="90" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LZOWXnSoQ6ckZKk8h5wf-45" value="&lt;font color=&quot;#b3ff66&quot;&gt;公司删除app授权&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FF0000;fontSize=19;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="424" y="140" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LZOWXnSoQ6ckZKk8h5wf-47" value="传参:appId，perId" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="LZOWXnSoQ6ckZKk8h5wf-47" value="传参:appId" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="304" y="510" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LZOWXnSoQ6ckZKk8h5wf-52" value="&lt;font color=&quot;#3333ff&quot;&gt;个人删除app授权&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FF0000;fontSize=19;fontStyle=1" vertex="1" parent="1">
