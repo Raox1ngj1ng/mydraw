@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T08:49:44.062Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="xV4s2GlRzu_S4OFvAkaL" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T09:11:05.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="X1eenhUwbzCmyb9KmyE0" version="14.5.0" type="github" pages="2">
   <diagram id="IZJS1GW4pbiGrFn4t28E" name="Page-1">
     <mxGraphModel dx="741" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,6 +115,35 @@
         </mxCell>
         <mxCell id="BWObmLD1D0PCnHQQP11h-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BWObmLD1D0PCnHQQP11h-51" target="BWObmLD1D0PCnHQQP11h-51">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dwezxdlnTc2A7Lmb7yeE" name="Page-2">
+    <mxGraphModel dx="894" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="tq09Ldr1zZmrgnfXzBGN-0" />
+        <mxCell id="tq09Ldr1zZmrgnfXzBGN-1" parent="tq09Ldr1zZmrgnfXzBGN-0" />
+        <mxCell id="tq09Ldr1zZmrgnfXzBGN-2" value="登录注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tq09Ldr1zZmrgnfXzBGN-1">
+          <mxGeometry x="310" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tq09Ldr1zZmrgnfXzBGN-3" value="文案创建到OTC市场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tq09Ldr1zZmrgnfXzBGN-1">
+          <mxGeometry x="310" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tq09Ldr1zZmrgnfXzBGN-4" value="积分兑换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tq09Ldr1zZmrgnfXzBGN-1">
+          <mxGeometry x="310" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tq09Ldr1zZmrgnfXzBGN-5" value="OTC市场交易" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tq09Ldr1zZmrgnfXzBGN-1">
+          <mxGeometry x="310" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tq09Ldr1zZmrgnfXzBGN-6" value="文案版权处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tq09Ldr1zZmrgnfXzBGN-1">
+          <mxGeometry x="310" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tq09Ldr1zZmrgnfXzBGN-7" value="TOP排行榜" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tq09Ldr1zZmrgnfXzBGN-1">
+          <mxGeometry x="310" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tq09Ldr1zZmrgnfXzBGN-8" value="存证处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tq09Ldr1zZmrgnfXzBGN-1">
+          <mxGeometry x="310" y="400" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
