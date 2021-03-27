@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-27T03:06:23.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="HGhOA4JjcQMc3186uENv" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-27T10:14:04.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="n9tsFr16JnSAlByLjtvZ" version="14.5.1" type="github">
   <diagram id="1mt8mNxpyM94kV-Z32jR" name="Page-1">
     <mxGraphModel dx="2336" dy="1939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -331,9 +331,6 @@
         <mxCell id="o-IjFfHY1BgiDiIO1Yf9-89" value="支付方CRUD" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="535" y="995" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="owU5IUrPAvpqcM9Akmr4-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o-IjFfHY1BgiDiIO1Yf9-90" target="owU5IUrPAvpqcM9Akmr4-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="o-IjFfHY1BgiDiIO1Yf9-90" value="统计查询" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="652" y="90" width="80" height="20" as="geometry" />
         </mxCell>
@@ -636,9 +633,6 @@
         </mxCell>
         <mxCell id="OP8aJ6hJ4rptzLM6uYYm-22" value="优质文案设置" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="620" y="760" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="owU5IUrPAvpqcM9Akmr4-1" value="统计查询" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="812" y="90" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="owU5IUrPAvpqcM9Akmr4-3" value="审核管理" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F19C99;" vertex="1" parent="1">
           <mxGeometry x="360" y="1050" width="80" height="20" as="geometry" />
