@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T08:10:21.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" etag="AierEAS8840Ja4xddpwi" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T08:55:59.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" etag="wR0IxWTI235e4WNn1KAI" version="14.7.7" type="github">
   <diagram id="MB_AScBWJvY5yQ6FJXbP" name="Page-1">
-    <mxGraphModel dx="1568" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2353" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_TmynbGkH612RKtOp_gE-199" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="929" width="1090" height="261" as="geometry" />
+        </mxCell>
+        <mxCell id="_TmynbGkH612RKtOp_gE-198" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="10" width="1090" height="920" as="geometry" />
+        </mxCell>
         <mxCell id="_TmynbGkH612RKtOp_gE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="_TmynbGkH612RKtOp_gE-1" target="_TmynbGkH612RKtOp_gE-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -29,6 +35,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_TmynbGkH612RKtOp_gE-125" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_TmynbGkH612RKtOp_gE-4" target="_TmynbGkH612RKtOp_gE-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_TmynbGkH612RKtOp_gE-207" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_TmynbGkH612RKtOp_gE-4" target="_TmynbGkH612RKtOp_gE-204">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_TmynbGkH612RKtOp_gE-4" value="超级管理员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -184,8 +193,11 @@
         <mxCell id="_TmynbGkH612RKtOp_gE-197" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_TmynbGkH612RKtOp_gE-53" target="_TmynbGkH612RKtOp_gE-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_TmynbGkH612RKtOp_gE-202" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_TmynbGkH612RKtOp_gE-53" target="_TmynbGkH612RKtOp_gE-200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_TmynbGkH612RKtOp_gE-53" value="运维管理（PMS系统）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="135" y="1070" width="150" height="20" as="geometry" />
+          <mxGeometry x="135" y="1080" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_TmynbGkH612RKtOp_gE-101" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_TmynbGkH612RKtOp_gE-55" target="_TmynbGkH612RKtOp_gE-56">
           <mxGeometry relative="1" as="geometry" />
@@ -215,13 +227,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_TmynbGkH612RKtOp_gE-59" value="权限管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1130" width="70" height="20" as="geometry" />
+          <mxGeometry x="334" y="1080" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_TmynbGkH612RKtOp_gE-60" value="角色的增加、删除、修改、查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1120" width="206" height="20" as="geometry" />
+          <mxGeometry x="504" y="1070" width="206" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_TmynbGkH612RKtOp_gE-61" value="员工审核，角色分配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1140" width="206" height="20" as="geometry" />
+          <mxGeometry x="504" y="1090" width="206" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_TmynbGkH612RKtOp_gE-81" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_TmynbGkH612RKtOp_gE-62" target="_TmynbGkH612RKtOp_gE-64">
           <mxGeometry relative="1" as="geometry" />
@@ -369,6 +381,24 @@
         </mxCell>
         <mxCell id="_TmynbGkH612RKtOp_gE-192" value="服务商列表查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="507" y="620" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_TmynbGkH612RKtOp_gE-203" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_TmynbGkH612RKtOp_gE-200" target="_TmynbGkH612RKtOp_gE-201">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_TmynbGkH612RKtOp_gE-200" value="组织管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1149" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_TmynbGkH612RKtOp_gE-201" value="组织列表，组织审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1149" width="206" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_TmynbGkH612RKtOp_gE-208" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_TmynbGkH612RKtOp_gE-204" target="_TmynbGkH612RKtOp_gE-205">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_TmynbGkH612RKtOp_gE-204" value="员工管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="200" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_TmynbGkH612RKtOp_gE-205" value="审核入驻的员工，并配置角色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="494" y="200" width="250" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
