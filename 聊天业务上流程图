@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T03:04:21.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="DiRJWkff7AAJrb8ofhOF" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T03:06:00.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="rgcQk2dPdeYKF_ztWVF0" version="14.8.0" type="github">
   <diagram id="oxNMvu-zlrqlysUwWIVn" name="Page-1">
     <mxGraphModel dx="894" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
         <mxCell id="TWjfDoLKI_szBF8EfGnk-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TWjfDoLKI_szBF8EfGnk-27" target="TWjfDoLKI_szBF8EfGnk-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TWjfDoLKI_szBF8EfGnk-27" value="&lt;span&gt;怎么存取双方聊天信息？通过查询A-B的账号id对应的房间id ,如果房间id相等则取查询对应房间里的消息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-27" value="&lt;span&gt;怎么存取双方聊天，处理的是订单，聊天信息存入到订单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="720" width="126" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TWjfDoLKI_szBF8EfGnk-29" value="&lt;span&gt;这个也支持多人共同聊天房间消息查询&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
