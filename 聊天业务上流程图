@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T02:39:52.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="4MBMqSiFhcwMSaKZ1Y75" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T03:03:08.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="f_Wh3YonZFn2gq6IAw4N" version="14.8.0" type="github">
   <diagram id="oxNMvu-zlrqlysUwWIVn" name="Page-1">
-    <mxGraphModel dx="741" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="894" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,29 +97,23 @@
         <mxCell id="TWjfDoLKI_szBF8EfGnk-52" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TWjfDoLKI_szBF8EfGnk-32" target="TWjfDoLKI_szBF8EfGnk-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TWjfDoLKI_szBF8EfGnk-32" value="接收消息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-32" value="查询用户请求到客服的消息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TWjfDoLKI_szBF8EfGnk-51" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TWjfDoLKI_szBF8EfGnk-33" target="TWjfDoLKI_szBF8EfGnk-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TWjfDoLKI_szBF8EfGnk-33" value="获取用户主键id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-33" value="根据账号id查询用户的房间id获取聊天信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="376" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TWjfDoLKI_szBF8EfGnk-41" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TWjfDoLKI_szBF8EfGnk-34" target="TWjfDoLKI_szBF8EfGnk-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TWjfDoLKI_szBF8EfGnk-34" value="根据用户id创建房间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-34" value="根据房间号加入聊天信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TWjfDoLKI_szBF8EfGnk-42" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TWjfDoLKI_szBF8EfGnk-35" target="TWjfDoLKI_szBF8EfGnk-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TWjfDoLKI_szBF8EfGnk-35" value="客服和用户的房间建立，获取统一房间id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-35" value="获取一对一或多对一消息的时候，传入账号id和房间idj就可以查询到相同的房间号去查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="930" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TWjfDoLKI_szBF8EfGnk-36" value="获取一对一或多对一消息的时候，传入账号id和房间idj就可以查询到相同的房间号去查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1010" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
