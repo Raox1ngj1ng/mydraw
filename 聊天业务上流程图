@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T02:34:03.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="6OExZkHdCCzwoPjrt-Jq" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T02:34:47.937Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="dc3FTBMZWT7NLBQk8Abd" version="14.8.0" type="github">
   <diagram id="oxNMvu-zlrqlysUwWIVn" name="Page-1">
     <mxGraphModel dx="741" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,8 +118,8 @@
         <mxCell id="TWjfDoLKI_szBF8EfGnk-35" value="客服和用户的房间建立，获取统一房间id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TWjfDoLKI_szBF8EfGnk-36" value="获取一对一或多对一消息的时候，传入账号id和房间id相同的房间号去查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1010" width="120" height="60" as="geometry" />
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-36" value="获取一对一或多对一消息的时候，传入账号id和房间idj就可以查询到相同的房间号去查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1010" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
