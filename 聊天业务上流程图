@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T02:10:33.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="JyN5EaA8cVSUhbe_vZ9H" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T02:26:55.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="Vo6IGQYnATmx_s8Z0XCl" version="14.8.0" type="github">
   <diagram id="oxNMvu-zlrqlysUwWIVn" name="Page-1">
     <mxGraphModel dx="741" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,8 +28,74 @@
         <mxCell id="TWjfDoLKI_szBF8EfGnk-10" value="app即时通讯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TWjfDoLKI_szBF8EfGnk-11" value="翻牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TWjfDoLKI_szBF8EfGnk-11" target="TWjfDoLKI_szBF8EfGnk-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-11" value="翻牌（A-B）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TWjfDoLKI_szBF8EfGnk-12" target="TWjfDoLKI_szBF8EfGnk-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TWjfDoLKI_szBF8EfGnk-12" target="TWjfDoLKI_szBF8EfGnk-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-12" value="判断是否在线判断B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TWjfDoLKI_szBF8EfGnk-13" target="TWjfDoLKI_szBF8EfGnk-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-13" value="AB双方在线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TWjfDoLKI_szBF8EfGnk-14" target="TWjfDoLKI_szBF8EfGnk-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-14" value="B对方离线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-17" value="A留言即时器开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TWjfDoLKI_szBF8EfGnk-20" target="TWjfDoLKI_szBF8EfGnk-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-20" value="发起聊天的用户创建房间（打开聊天窗口）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TWjfDoLKI_szBF8EfGnk-23" target="TWjfDoLKI_szBF8EfGnk-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-23" value="双方聊天记录存入房间（房间获取到双方主键id，存取记录）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TWjfDoLKI_szBF8EfGnk-27" target="TWjfDoLKI_szBF8EfGnk-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-27" value="&lt;span&gt;怎么存取双方聊天信息？传值怎么传：去查询A-B对应的房间id ,如果房间id相等则取查询对应房间里的消息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="720" width="126" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-29" value="&lt;span&gt;这个也支持多人共同聊天房间消息查询&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="720" width="126" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-31" value="PC端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-32" value="接收消息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-33" value="获取用户主键id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-34" value="根据用户id创建房间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-35" value="客服和用户的房间建立，获取统一房间id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TWjfDoLKI_szBF8EfGnk-36" value="获取一对一或多对一消息的时候，根据相同的房间号去查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
